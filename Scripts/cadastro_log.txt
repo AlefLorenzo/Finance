@@ -1,0 +1,21 @@
+[2026-03-14 18:52:09] 🔍 Testando conexão com https://mangabug-client-mangabug.up.railway.app/admin...
+[2026-03-14 18:52:10] ✅ Site acessível!
+[2026-03-14 18:52:57] 📁 Pasta base selecionada: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 18:53:38] 
+============================================================
+[2026-03-14 18:53:38] 🚀 INICIANDO CADASTRO AUTOMÁTICO
+[2026-03-14 18:53:38] 📌 Obra: Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 18:53:38] 📚 Capítulos: 44 a 97
+[2026-03-14 18:53:38] ============================================================
+[2026-03-14 18:53:38] 🌐 Iniciando navegador Chrome...
+[2026-03-14 18:53:43] 🔑 Fazendo login...
+[2026-03-14 18:54:24] ❌ Campo de usuário não encontrado
+[2026-03-14 18:55:46] 
+============================================================
+[2026-03-14 18:55:46] 🚀 INICIANDO CADASTRO AUTOMÁTICO
+[2026-03-14 18:55:46] 📌 Obra: Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 18:55:46] 📚 Capítulos: 44 a 97
+[2026-03-14 18:55:46] ============================================================
+[2026-03-14 18:55:46] 🌐 Iniciando navegador Chrome...
+[2026-03-14 18:55:52] 🔑 Fazendo login...
+[2026-03-14 18:56:33] ❌ Campo de usuário não encontrado

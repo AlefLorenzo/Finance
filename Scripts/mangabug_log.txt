@@ -1,0 +1,5472 @@
+[2026-03-14 19:01:47] 🔍 Testando login...
+[2026-03-14 19:01:48] 🔍 Testando login...
+[2026-03-14 19:01:52] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:01:52] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:01:56] 🔑 Acessando https://mangabug-client-mangabug.up.railway.app/login...
+[2026-03-14 19:01:56] 🔑 Acessando https://mangabug-client-mangabug.up.railway.app/login...
+[2026-03-14 19:01:59] 📄 Página de login salva para debug
+[2026-03-14 19:01:59] 🔍 Encontrados 1 inputs na página
+[2026-03-14 19:02:00]   Input 1: type=password, name=, id=, placeholder=••••••••
+[2026-03-14 19:02:00] 🔍 Encontrados 1 formulários
+[2026-03-14 19:02:00] ❌ Não foram encontrados campos de login suficientes
+[2026-03-14 19:02:00] 📄 Página de login salva para debug
+[2026-03-14 19:02:00] 🔍 Encontrados 0 inputs na página
+[2026-03-14 19:02:00] 🔍 Encontrados 0 formulários
+[2026-03-14 19:02:00] ❌ Não foram encontrados campos de login suficientes
+[2026-03-14 19:02:12] 🔍 Testando login...
+[2026-03-14 19:02:16] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:02:20] 🔑 Acessando https://mangabug-client-mangabug.up.railway.app/login...
+[2026-03-14 19:02:23] 📄 Página de login salva para debug
+[2026-03-14 19:02:23] 🔍 Encontrados 1 inputs na página
+[2026-03-14 19:02:23]   Input 1: type=password, name=, id=, placeholder=••••••••
+[2026-03-14 19:02:23] 🔍 Encontrados 1 formulários
+[2026-03-14 19:02:23] ❌ Não foram encontrados campos de login suficientes
+[2026-03-14 19:02:26] 🔍 Testando login...
+[2026-03-14 19:02:31] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:02:35] 🔑 Acessando https://mangabug-client-mangabug.up.railway.app/login...
+[2026-03-14 19:02:38] 📄 Página de login salva para debug
+[2026-03-14 19:02:38] 🔍 Encontrados 1 inputs na página
+[2026-03-14 19:02:38]   Input 1: type=password, name=, id=, placeholder=••••••••
+[2026-03-14 19:02:38] 🔍 Encontrados 1 formulários
+[2026-03-14 19:02:38] ❌ Não foram encontrados campos de login suficientes
+[2026-03-14 19:02:42] 🔍 Testando login...
+[2026-03-14 19:02:46] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:02:50] 🔑 Acessando https://mangabug-client-mangabug.up.railway.app/login...
+[2026-03-14 19:02:54] 📄 Página de login salva para debug
+[2026-03-14 19:02:54] 🔍 Encontrados 0 inputs na página
+[2026-03-14 19:02:54] 🔍 Encontrados 0 formulários
+[2026-03-14 19:02:54] ❌ Não foram encontrados campos de login suficientes
+[2026-03-14 19:02:58] 
+============================================================
+[2026-03-14 19:02:58] 🚀 INICIANDO CADASTRO AUTOMÁTICO
+[2026-03-14 19:02:58] 📌 Obra: Assassino de Nível Divino, Eu Sou a Sombra
+[2026-03-14 19:02:58] 📚 Capítulos: 44 a 94
+[2026-03-14 19:02:58] ============================================================
+[2026-03-14 19:02:58] 🌐 Iniciando navegador Chrome...
+[2026-03-14 19:03:04] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:03:08] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app/admin...
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 44 (1/51)...
+[2026-03-14 19:03:12] 📁 10 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 44...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 45 (2/51)...
+[2026-03-14 19:03:12] 📁 11 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 45...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 46 (3/51)...
+[2026-03-14 19:03:12] 📁 10 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 46...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 47 (4/51)...
+[2026-03-14 19:03:12] 📁 7 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 47...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 48 (5/51)...
+[2026-03-14 19:03:12] 📁 8 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 48...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 49 (6/51)...
+[2026-03-14 19:03:12] 📁 6 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 49...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 50 (7/51)...
+[2026-03-14 19:03:12] 📁 6 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 50...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 51 (8/51)...
+[2026-03-14 19:03:12] 📁 7 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 51...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 52 (9/51)...
+[2026-03-14 19:03:12] 📁 10 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 52...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 53 (10/51)...
+[2026-03-14 19:03:12] 📁 6 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 53...
+[2026-03-14 19:03:12] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:12] 
+📚 Processando capítulo 54 (11/51)...
+[2026-03-14 19:03:12] 📁 7 imagens encontradas
+[2026-03-14 19:03:12] 📌 Selecionando obra...
+[2026-03-14 19:03:12] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:12] 🔢 Preenchendo capítulo 54...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 55 (12/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 55...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 56 (13/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 56...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 57 (14/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 57...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 58 (15/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 58...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 59 (16/51)...
+[2026-03-14 19:03:13] 📁 7 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 59...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 60 (17/51)...
+[2026-03-14 19:03:13] 📁 5 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 60...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 61 (18/51)...
+[2026-03-14 19:03:13] 📁 7 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 61...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 62 (19/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 62...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 63 (20/51)...
+[2026-03-14 19:03:13] 📁 7 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 63...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 64 (21/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 64...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 65 (22/51)...
+[2026-03-14 19:03:13] 📁 8 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 65...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 66 (23/51)...
+[2026-03-14 19:03:13] 📁 8 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 66...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 67 (24/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 67...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 68 (25/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 68...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 69 (26/51)...
+[2026-03-14 19:03:13] 📁 7 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 69...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 70 (27/51)...
+[2026-03-14 19:03:13] 📁 6 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 70...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 71 (28/51)...
+[2026-03-14 19:03:13] 📁 7 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 71...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 72 (29/51)...
+[2026-03-14 19:03:13] 📁 7 imagens encontradas
+[2026-03-14 19:03:13] 📌 Selecionando obra...
+[2026-03-14 19:03:13] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:13] 🔢 Preenchendo capítulo 72...
+[2026-03-14 19:03:13] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:13] 
+📚 Processando capítulo 73 (30/51)...
+[2026-03-14 19:03:14] 📁 7 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 73...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 74 (31/51)...
+[2026-03-14 19:03:14] 📁 7 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 74...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 75 (32/51)...
+[2026-03-14 19:03:14] 📁 7 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 75...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 76 (33/51)...
+[2026-03-14 19:03:14] 📁 8 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 76...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 77 (34/51)...
+[2026-03-14 19:03:14] 📁 10 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 77...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 78 (35/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 78...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 79 (36/51)...
+[2026-03-14 19:03:14] 📁 5 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 79...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 80 (37/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 80...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 81 (38/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 81...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 82 (39/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 82...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 83 (40/51)...
+[2026-03-14 19:03:14] ❌ Pasta do capítulo 83 não encontrada
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 84 (41/51)...
+[2026-03-14 19:03:14] 📁 8 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 84...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 85 (42/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 85...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 86 (43/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 86...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 87 (44/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 87...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 88 (45/51)...
+[2026-03-14 19:03:14] 📁 5 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 88...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 89 (46/51)...
+[2026-03-14 19:03:14] 📁 5 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 89...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 90 (47/51)...
+[2026-03-14 19:03:14] 📁 5 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 90...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 91 (48/51)...
+[2026-03-14 19:03:14] 📁 6 imagens encontradas
+[2026-03-14 19:03:14] 📌 Selecionando obra...
+[2026-03-14 19:03:14] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:14] 🔢 Preenchendo capítulo 91...
+[2026-03-14 19:03:14] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:14] 
+📚 Processando capítulo 92 (49/51)...
+[2026-03-14 19:03:15] 📁 6 imagens encontradas
+[2026-03-14 19:03:15] 📌 Selecionando obra...
+[2026-03-14 19:03:15] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:15] 🔢 Preenchendo capítulo 92...
+[2026-03-14 19:03:15] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:15] 
+📚 Processando capítulo 93 (50/51)...
+[2026-03-14 19:03:15] 📁 7 imagens encontradas
+[2026-03-14 19:03:15] 📌 Selecionando obra...
+[2026-03-14 19:03:15] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:15] 🔢 Preenchendo capítulo 93...
+[2026-03-14 19:03:15] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:15] 
+📚 Processando capítulo 94 (51/51)...
+[2026-03-14 19:03:15] 📁 6 imagens encontradas
+[2026-03-14 19:03:15] 📌 Selecionando obra...
+[2026-03-14 19:03:15] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:15] 🔢 Preenchendo capítulo 94...
+[2026-03-14 19:03:15] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:15] 
+============================================================
+[2026-03-14 19:03:15] ✅ CADASTRO FINALIZADO!
+[2026-03-14 19:03:15] 🍪 Cookies salvos!
+[2026-03-14 19:03:32] 
+============================================================
+[2026-03-14 19:03:32] 🚀 INICIANDO CADASTRO AUTOMÁTICO
+[2026-03-14 19:03:32] 📌 Obra: Assassino de Nível Divino, Eu Sou a Sombra
+[2026-03-14 19:03:32] 📚 Capítulos: 44 a 94
+[2026-03-14 19:03:32] ============================================================
+[2026-03-14 19:03:32] 🌐 Iniciando navegador Chrome...
+[2026-03-14 19:03:37] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:03:41] 🍪 Cookies carregados!
+[2026-03-14 19:03:44] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app/admin...
+[2026-03-14 19:03:47] 
+📚 Processando capítulo 44 (1/51)...
+[2026-03-14 19:03:47] 📁 10 imagens encontradas
+[2026-03-14 19:03:47] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 44...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 45 (2/51)...
+[2026-03-14 19:03:48] 📁 11 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 45...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 46 (3/51)...
+[2026-03-14 19:03:48] 📁 10 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 46...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 47 (4/51)...
+[2026-03-14 19:03:48] 📁 7 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 47...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 48 (5/51)...
+[2026-03-14 19:03:48] 📁 8 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 48...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 49 (6/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 49...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 50 (7/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 50...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 51 (8/51)...
+[2026-03-14 19:03:48] 📁 7 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 51...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 52 (9/51)...
+[2026-03-14 19:03:48] 📁 10 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 52...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 53 (10/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 53...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 54 (11/51)...
+[2026-03-14 19:03:48] 📁 7 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 54...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 55 (12/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 55...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 56 (13/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 56...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 57 (14/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 57...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 58 (15/51)...
+[2026-03-14 19:03:48] 📁 6 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 58...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 59 (16/51)...
+[2026-03-14 19:03:48] 📁 7 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 59...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 60 (17/51)...
+[2026-03-14 19:03:48] 📁 5 imagens encontradas
+[2026-03-14 19:03:48] 📌 Selecionando obra...
+[2026-03-14 19:03:48] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:48] 🔢 Preenchendo capítulo 60...
+[2026-03-14 19:03:48] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:48] 
+📚 Processando capítulo 61 (18/51)...
+[2026-03-14 19:03:48] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 61...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 62 (19/51)...
+[2026-03-14 19:03:49] 📁 6 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 62...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 63 (20/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 63...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 64 (21/51)...
+[2026-03-14 19:03:49] 📁 6 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 64...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 65 (22/51)...
+[2026-03-14 19:03:49] 📁 8 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 65...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 66 (23/51)...
+[2026-03-14 19:03:49] 📁 8 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 66...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 67 (24/51)...
+[2026-03-14 19:03:49] 📁 6 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 67...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 68 (25/51)...
+[2026-03-14 19:03:49] 📁 6 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 68...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 69 (26/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 69...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 70 (27/51)...
+[2026-03-14 19:03:49] 📁 6 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 70...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 71 (28/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 71...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 72 (29/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 72...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 73 (30/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 73...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 74 (31/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 74...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 75 (32/51)...
+[2026-03-14 19:03:49] 📁 7 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 75...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 76 (33/51)...
+[2026-03-14 19:03:49] 📁 8 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 76...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 77 (34/51)...
+[2026-03-14 19:03:49] 📁 10 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 77...
+[2026-03-14 19:03:49] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:49] 
+📚 Processando capítulo 78 (35/51)...
+[2026-03-14 19:03:49] 📁 6 imagens encontradas
+[2026-03-14 19:03:49] 📌 Selecionando obra...
+[2026-03-14 19:03:49] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:49] 🔢 Preenchendo capítulo 78...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 79 (36/51)...
+[2026-03-14 19:03:50] 📁 5 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 79...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 80 (37/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 80...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 81 (38/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 81...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 82 (39/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 82...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 83 (40/51)...
+[2026-03-14 19:03:50] ❌ Pasta do capítulo 83 não encontrada
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 84 (41/51)...
+[2026-03-14 19:03:50] 📁 8 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 84...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 85 (42/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 85...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 86 (43/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 86...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 87 (44/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 87...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 88 (45/51)...
+[2026-03-14 19:03:50] 📁 5 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 88...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 89 (46/51)...
+[2026-03-14 19:03:50] 📁 5 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 89...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 90 (47/51)...
+[2026-03-14 19:03:50] 📁 5 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 90...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 91 (48/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 91...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 92 (49/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 92...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 93 (50/51)...
+[2026-03-14 19:03:50] 📁 7 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 93...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+📚 Processando capítulo 94 (51/51)...
+[2026-03-14 19:03:50] 📁 6 imagens encontradas
+[2026-03-14 19:03:50] 📌 Selecionando obra...
+[2026-03-14 19:03:50] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:03:50] 🔢 Preenchendo capítulo 94...
+[2026-03-14 19:03:50] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:03:50] 
+============================================================
+[2026-03-14 19:03:50] ✅ CADASTRO FINALIZADO!
+[2026-03-14 19:03:50] 🍪 Cookies salvos!
+[2026-03-14 19:04:04] 
+============================================================
+[2026-03-14 19:04:04] 🚀 INICIANDO CADASTRO AUTOMÁTICO
+[2026-03-14 19:04:04] 📌 Obra: Assassino de Nível Divino, Eu Sou a Sombra
+[2026-03-14 19:04:04] 📚 Capítulos: 44 a 94
+[2026-03-14 19:04:04] ============================================================
+[2026-03-14 19:04:04] 🌐 Iniciando navegador Chrome...
+[2026-03-14 19:04:08] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app...
+[2026-03-14 19:04:12] 🍪 Cookies carregados!
+[2026-03-14 19:04:15] 🌐 Acessando https://mangabug-client-mangabug.up.railway.app/admin...
+[2026-03-14 19:04:19] 
+📚 Processando capítulo 44 (1/51)...
+[2026-03-14 19:04:19] 📁 10 imagens encontradas
+[2026-03-14 19:04:19] 📌 Selecionando obra...
+[2026-03-14 19:04:19] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:19] 🔢 Preenchendo capítulo 44...
+[2026-03-14 19:04:19] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:19] 
+📚 Processando capítulo 45 (2/51)...
+[2026-03-14 19:04:19] 📁 11 imagens encontradas
+[2026-03-14 19:04:19] 📌 Selecionando obra...
+[2026-03-14 19:04:19] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:19] 🔢 Preenchendo capítulo 45...
+[2026-03-14 19:04:19] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:19] 
+📚 Processando capítulo 46 (3/51)...
+[2026-03-14 19:04:19] 📁 10 imagens encontradas
+[2026-03-14 19:04:19] 📌 Selecionando obra...
+[2026-03-14 19:04:19] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:19] 🔢 Preenchendo capítulo 46...
+[2026-03-14 19:04:19] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:19] 
+📚 Processando capítulo 47 (4/51)...
+[2026-03-14 19:04:19] 📁 7 imagens encontradas
+[2026-03-14 19:04:19] 📌 Selecionando obra...
+[2026-03-14 19:04:19] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:19] 🔢 Preenchendo capítulo 47...
+[2026-03-14 19:04:19] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:19] 
+📚 Processando capítulo 48 (5/51)...
+[2026-03-14 19:04:19] 📁 8 imagens encontradas
+[2026-03-14 19:04:19] 📌 Selecionando obra...
+[2026-03-14 19:04:19] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:19] 🔢 Preenchendo capítulo 48...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 49 (6/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 49...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 50 (7/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 50...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 51 (8/51)...
+[2026-03-14 19:04:20] 📁 7 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 51...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 52 (9/51)...
+[2026-03-14 19:04:20] 📁 10 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 52...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 53 (10/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 53...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 54 (11/51)...
+[2026-03-14 19:04:20] 📁 7 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 54...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 55 (12/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 55...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 56 (13/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 56...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 57 (14/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 57...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 58 (15/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 58...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 59 (16/51)...
+[2026-03-14 19:04:20] 📁 7 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 59...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 60 (17/51)...
+[2026-03-14 19:04:20] 📁 5 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 60...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 61 (18/51)...
+[2026-03-14 19:04:20] 📁 7 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 61...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 62 (19/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 62...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 63 (20/51)...
+[2026-03-14 19:04:20] 📁 7 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 63...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 64 (21/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 64...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 65 (22/51)...
+[2026-03-14 19:04:20] 📁 8 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 65...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 66 (23/51)...
+[2026-03-14 19:04:20] 📁 8 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 66...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 67 (24/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 67...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 68 (25/51)...
+[2026-03-14 19:04:20] 📁 6 imagens encontradas
+[2026-03-14 19:04:20] 📌 Selecionando obra...
+[2026-03-14 19:04:20] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:20] 🔢 Preenchendo capítulo 68...
+[2026-03-14 19:04:20] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:20] 
+📚 Processando capítulo 69 (26/51)...
+[2026-03-14 19:04:20] 📁 7 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 69...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 70 (27/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 70...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 71 (28/51)...
+[2026-03-14 19:04:21] 📁 7 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 71...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 72 (29/51)...
+[2026-03-14 19:04:21] 📁 7 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 72...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 73 (30/51)...
+[2026-03-14 19:04:21] 📁 7 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 73...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 74 (31/51)...
+[2026-03-14 19:04:21] 📁 7 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 74...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 75 (32/51)...
+[2026-03-14 19:04:21] 📁 7 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 75...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 76 (33/51)...
+[2026-03-14 19:04:21] 📁 8 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 76...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 77 (34/51)...
+[2026-03-14 19:04:21] 📁 10 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 77...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 78 (35/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 78...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 79 (36/51)...
+[2026-03-14 19:04:21] 📁 5 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 79...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 80 (37/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 80...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 81 (38/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 81...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 82 (39/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 82...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 83 (40/51)...
+[2026-03-14 19:04:21] ❌ Pasta do capítulo 83 não encontrada
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 84 (41/51)...
+[2026-03-14 19:04:21] 📁 8 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 84...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 85 (42/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 85...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 86 (43/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 86...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 87 (44/51)...
+[2026-03-14 19:04:21] 📁 6 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 87...
+[2026-03-14 19:04:21] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:21] 
+📚 Processando capítulo 88 (45/51)...
+[2026-03-14 19:04:21] 📁 5 imagens encontradas
+[2026-03-14 19:04:21] 📌 Selecionando obra...
+[2026-03-14 19:04:21] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:21] 🔢 Preenchendo capítulo 88...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+📚 Processando capítulo 89 (46/51)...
+[2026-03-14 19:04:22] 📁 5 imagens encontradas
+[2026-03-14 19:04:22] 📌 Selecionando obra...
+[2026-03-14 19:04:22] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:22] 🔢 Preenchendo capítulo 89...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+📚 Processando capítulo 90 (47/51)...
+[2026-03-14 19:04:22] 📁 5 imagens encontradas
+[2026-03-14 19:04:22] 📌 Selecionando obra...
+[2026-03-14 19:04:22] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:22] 🔢 Preenchendo capítulo 90...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+📚 Processando capítulo 91 (48/51)...
+[2026-03-14 19:04:22] 📁 6 imagens encontradas
+[2026-03-14 19:04:22] 📌 Selecionando obra...
+[2026-03-14 19:04:22] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:22] 🔢 Preenchendo capítulo 91...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+📚 Processando capítulo 92 (49/51)...
+[2026-03-14 19:04:22] 📁 6 imagens encontradas
+[2026-03-14 19:04:22] 📌 Selecionando obra...
+[2026-03-14 19:04:22] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:22] 🔢 Preenchendo capítulo 92...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+📚 Processando capítulo 93 (50/51)...
+[2026-03-14 19:04:22] 📁 7 imagens encontradas
+[2026-03-14 19:04:22] 📌 Selecionando obra...
+[2026-03-14 19:04:22] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:22] 🔢 Preenchendo capítulo 93...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+📚 Processando capítulo 94 (51/51)...
+[2026-03-14 19:04:22] 📁 6 imagens encontradas
+[2026-03-14 19:04:22] 📌 Selecionando obra...
+[2026-03-14 19:04:22] ⚠️ Campo obra não encontrado automaticamente
+[2026-03-14 19:04:22] 🔢 Preenchendo capítulo 94...
+[2026-03-14 19:04:22] ❌ Erro no formulário: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[contains(text(), 'Nº DO CAPÍTULO')]/following::input"}
+  (Session info: chrome=145.0.7632.160); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#nosuchelementexception
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x717dd3
+	0x717e14
+	0x521db0
+	0x56c20a
+	0x56c4ab
+	0x5ade32
+	0x58ea84
+	0x5ab621
+	0x58e7d6
+	0x560049
+	0x560e04
+	0x976924
+	0x971bf7
+	0x98f5a0
+	0x730f58
+	0x73891d
+	0x720648
+	0x720812
+	0x70a21a
+	0x75c45d49
+	0x77bcd81b
+	0x77bcd7a1
+
+[2026-03-14 19:04:22] 
+============================================================
+[2026-03-14 19:04:22] ✅ CADASTRO FINALIZADO!
+[2026-03-14 19:04:22] 🍪 Cookies salvos!
+[2026-03-14 19:09:20] 🌐 Navegador aberto. Faça login manualmente.
+[2026-03-14 19:09:21] 🍪 Cookies carregados!
+[2026-03-14 19:09:29] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:09:29] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:09:37] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:09:37] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:09:48] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:09:48] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:09:53] 🍪 Sessão salva com sucesso!
+[2026-03-14 19:09:57] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:09:57] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:10:03] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:10:03] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:10:22] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:10:22] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:10:32] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:10:32] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:10:38] 🧹 Mapeamentos limpos
+[2026-03-14 19:10:39] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:10:39] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:10:49] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:10:49] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:11:06] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:11:06] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:11:34] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:11:34] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:11:48] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:11:48] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:11:59] 🎯 Mapeando campo: LANCAR
+[2026-03-14 19:11:59] 👉 Clique no campo no navegador em até 10 segundos...
+[2026-03-14 19:12:24] 📁 Pasta base: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 19:17:10] 🌐 Navegador aberto. Faça login manualmente.
+[2026-03-14 19:17:11] 🍪 Cookies carregados!
+[2026-03-14 19:17:20] 🍪 Sessão salva com sucesso!
+[2026-03-14 19:17:27] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:17:27] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:17:57] ❌ Tempo esgotado para mapeamento
+[2026-03-14 19:18:12] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:18:12] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:18:15] ✅ Campo mapeado: select.w-full
+[2026-03-14 19:18:15]    Tag: SELECT, ID: , Name: 
+[2026-03-14 19:18:22] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:18:22] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:18:25] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:18:25]    Tag: INPUT, ID: , Name: 
+[2026-03-14 19:18:27] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:18:27] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:18:31] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:18:31]    Tag: INPUT, ID: , Name: 
+[2026-03-14 19:18:36] 🎯 Mapeando campo: LANCAR
+[2026-03-14 19:18:36] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:18:38] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:18:38]    Tag: INPUT, ID: , Name: 
+[2026-03-14 19:18:38] 🎉 Todos os campos mapeados! Pronto para iniciar!
+[2026-03-14 19:18:47] 📁 Pasta base: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 19:23:14] 🍪 Sessão salva com sucesso!
+[2026-03-14 19:23:17] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:23:17] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:23:20] 🧹 Mapeamentos limpos
+[2026-03-14 19:25:22] 🌐 Navegador aberto. Faça login manualmente.
+[2026-03-14 19:25:23] 🍪 Cookies carregados!
+[2026-03-14 19:25:39] 🍪 Sessão salva com sucesso!
+[2026-03-14 19:25:47] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:25:47] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:25:54] ✅ Campo mapeado: select.w-full
+[2026-03-14 19:25:54]    Tag: SELECT, ID: , Name: 
+[2026-03-14 19:26:00] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:26:00] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:26:03] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:26:03]    Tag: INPUT, ID: , Name: 
+[2026-03-14 19:26:04] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:26:04] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:26:06] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:26:06]    Tag: INPUT, ID: , Name: 
+[2026-03-14 19:26:11] 🎯 Mapeando campo: LANCAR
+[2026-03-14 19:26:11] 👉 Clique no campo no navegador e pressione F2
+[2026-03-14 19:26:12] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:26:12]    Tag: INPUT, ID: , Name: 
+[2026-03-14 19:26:20] 📁 Pasta base: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 19:32:35] 🌐 Navegador aberto. Faça login manualmente.
+[2026-03-14 19:32:35] 🍪 Cookies carregados com sucesso!
+[2026-03-14 19:32:43] 🍪 Sessão salva com sucesso!
+[2026-03-14 19:32:53] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:32:53] 👉 Clique no campo e pressione F2
+[2026-03-14 19:33:00] ✅ Campo mapeado: select.w-full
+[2026-03-14 19:33:00]    Tag: SELECT, ID: 
+[2026-03-14 19:33:03] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:33:03] 👉 Clique no campo e pressione F2
+[2026-03-14 19:33:05] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:33:05]    Tag: INPUT, ID: 
+[2026-03-14 19:33:08] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:33:08] 👉 Clique no campo e pressione F2
+[2026-03-14 19:33:09] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:33:09]    Tag: INPUT, ID: 
+[2026-03-14 19:33:13] 🎯 Mapeando campo: LANCAR
+[2026-03-14 19:33:13] 👉 Clique no campo e pressione F2
+[2026-03-14 19:33:17] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:33:17]    Tag: INPUT, ID: 
+[2026-03-14 19:33:17] 🎉 Todos os campos mapeados! Pronto para iniciar!
+[2026-03-14 19:33:25] 📁 Pasta base: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 19:33:30] 
+============================================================
+[2026-03-14 19:33:30] 🚀 INICIANDO UPLOAD AUTOMÁTICO
+[2026-03-14 19:33:30] 📚 Capítulos: 44 a 97
+[2026-03-14 19:33:30] ============================================================
+[2026-03-14 19:33:30] 
+📚 Processando capítulo 44 (1/54)...
+[2026-03-14 19:33:30] 📁 10 imagens encontradas
+[2026-03-14 19:33:30] 📌 Selecionando obra...
+[2026-03-14 19:33:32] 🔢 Preenchendo capítulo 44...
+[2026-03-14 19:33:32] 📤 Fazendo upload...
+[2026-03-14 19:33:32] ✅ 10 imagens enviadas
+[2026-03-14 19:33:35] 🚀 Lançando capítulo...
+[2026-03-14 19:33:37] ✅ Capítulo 44 concluído!
+[2026-03-14 19:33:37] ⏱️ Aguardando 10s...
+[2026-03-14 19:33:47] 
+📚 Processando capítulo 45 (2/54)...
+[2026-03-14 19:33:47] 📁 11 imagens encontradas
+[2026-03-14 19:33:47] 📌 Selecionando obra...
+[2026-03-14 19:33:49] 🔢 Preenchendo capítulo 45...
+[2026-03-14 19:33:49] 📤 Fazendo upload...
+[2026-03-14 19:33:49] ✅ 11 imagens enviadas
+[2026-03-14 19:33:52] 🚀 Lançando capítulo...
+[2026-03-14 19:33:54] ✅ Capítulo 45 concluído!
+[2026-03-14 19:33:54] ⏱️ Aguardando 10s...
+[2026-03-14 19:34:04] 
+📚 Processando capítulo 46 (3/54)...
+[2026-03-14 19:34:04] 📁 10 imagens encontradas
+[2026-03-14 19:34:04] 📌 Selecionando obra...
+[2026-03-14 19:34:06] 🔢 Preenchendo capítulo 46...
+[2026-03-14 19:34:06] 📤 Fazendo upload...
+[2026-03-14 19:34:06] ✅ 10 imagens enviadas
+[2026-03-14 19:34:09] 🚀 Lançando capítulo...
+[2026-03-14 19:34:11] ✅ Capítulo 46 concluído!
+[2026-03-14 19:34:11] ⏱️ Aguardando 10s...
+[2026-03-14 19:34:21] 
+📚 Processando capítulo 47 (4/54)...
+[2026-03-14 19:34:21] 📁 7 imagens encontradas
+[2026-03-14 19:34:21] 📌 Selecionando obra...
+[2026-03-14 19:34:22] 🔢 Preenchendo capítulo 47...
+[2026-03-14 19:34:23] 📤 Fazendo upload...
+[2026-03-14 19:34:23] ✅ 7 imagens enviadas
+[2026-03-14 19:34:26] 🚀 Lançando capítulo...
+[2026-03-14 19:34:28] ✅ Capítulo 47 concluído!
+[2026-03-14 19:34:28] ⏱️ Aguardando 10s...
+[2026-03-14 19:34:38] 
+📚 Processando capítulo 48 (5/54)...
+[2026-03-14 19:34:38] 📁 8 imagens encontradas
+[2026-03-14 19:34:38] 📌 Selecionando obra...
+[2026-03-14 19:34:39] 🔢 Preenchendo capítulo 48...
+[2026-03-14 19:34:39] 📤 Fazendo upload...
+[2026-03-14 19:34:40] ✅ 8 imagens enviadas
+[2026-03-14 19:34:43] 🚀 Lançando capítulo...
+[2026-03-14 19:34:45] ✅ Capítulo 48 concluído!
+[2026-03-14 19:34:45] ⏱️ Aguardando 10s...
+[2026-03-14 19:34:55] 
+📚 Processando capítulo 49 (6/54)...
+[2026-03-14 19:34:55] 📁 6 imagens encontradas
+[2026-03-14 19:34:55] 📌 Selecionando obra...
+[2026-03-14 19:34:56] 🔢 Preenchendo capítulo 49...
+[2026-03-14 19:34:56] 📤 Fazendo upload...
+[2026-03-14 19:34:57] ✅ 6 imagens enviadas
+[2026-03-14 19:35:00] 🚀 Lançando capítulo...
+[2026-03-14 19:35:02] ✅ Capítulo 49 concluído!
+[2026-03-14 19:35:02] ⏱️ Aguardando 10s...
+[2026-03-14 19:35:12] 
+📚 Processando capítulo 50 (7/54)...
+[2026-03-14 19:35:12] 📁 6 imagens encontradas
+[2026-03-14 19:35:12] 📌 Selecionando obra...
+[2026-03-14 19:35:13] 🔢 Preenchendo capítulo 50...
+[2026-03-14 19:35:13] 📤 Fazendo upload...
+[2026-03-14 19:35:13] ✅ 6 imagens enviadas
+[2026-03-14 19:35:16] 🚀 Lançando capítulo...
+[2026-03-14 19:35:18] ✅ Capítulo 50 concluído!
+[2026-03-14 19:35:18] ⏱️ Aguardando 10s...
+[2026-03-14 19:35:28] 
+📚 Processando capítulo 51 (8/54)...
+[2026-03-14 19:35:28] 📁 7 imagens encontradas
+[2026-03-14 19:35:28] 📌 Selecionando obra...
+[2026-03-14 19:35:29] 🔢 Preenchendo capítulo 51...
+[2026-03-14 19:35:30] 📤 Fazendo upload...
+[2026-03-14 19:35:30] ✅ 7 imagens enviadas
+[2026-03-14 19:35:33] 🚀 Lançando capítulo...
+[2026-03-14 19:35:35] ✅ Capítulo 51 concluído!
+[2026-03-14 19:35:35] ⏱️ Aguardando 10s...
+[2026-03-14 19:35:45] 
+📚 Processando capítulo 52 (9/54)...
+[2026-03-14 19:35:45] 📁 10 imagens encontradas
+[2026-03-14 19:35:45] 📌 Selecionando obra...
+[2026-03-14 19:35:46] 🔢 Preenchendo capítulo 52...
+[2026-03-14 19:35:46] 📤 Fazendo upload...
+[2026-03-14 19:35:47] ✅ 10 imagens enviadas
+[2026-03-14 19:35:50] 🚀 Lançando capítulo...
+[2026-03-14 19:35:52] ✅ Capítulo 52 concluído!
+[2026-03-14 19:35:52] ⏱️ Aguardando 10s...
+[2026-03-14 19:36:02] 
+📚 Processando capítulo 53 (10/54)...
+[2026-03-14 19:36:02] 📁 6 imagens encontradas
+[2026-03-14 19:36:02] 📌 Selecionando obra...
+[2026-03-14 19:36:03] 🔢 Preenchendo capítulo 53...
+[2026-03-14 19:36:03] 📤 Fazendo upload...
+[2026-03-14 19:36:03] ✅ 6 imagens enviadas
+[2026-03-14 19:36:06] 🚀 Lançando capítulo...
+[2026-03-14 19:36:09] ✅ Capítulo 53 concluído!
+[2026-03-14 19:36:09] ⏱️ Aguardando 10s...
+[2026-03-14 19:36:19] 
+📚 Processando capítulo 54 (11/54)...
+[2026-03-14 19:36:19] 📁 7 imagens encontradas
+[2026-03-14 19:36:19] 📌 Selecionando obra...
+[2026-03-14 19:36:20] 🔢 Preenchendo capítulo 54...
+[2026-03-14 19:36:20] 📤 Fazendo upload...
+[2026-03-14 19:36:20] ✅ 7 imagens enviadas
+[2026-03-14 19:36:23] 🚀 Lançando capítulo...
+[2026-03-14 19:36:25] ✅ Capítulo 54 concluído!
+[2026-03-14 19:36:25] ⏱️ Aguardando 10s...
+[2026-03-14 19:36:35] 
+📚 Processando capítulo 55 (12/54)...
+[2026-03-14 19:36:35] 📁 6 imagens encontradas
+[2026-03-14 19:36:35] 📌 Selecionando obra...
+[2026-03-14 19:36:36] 🔢 Preenchendo capítulo 55...
+[2026-03-14 19:36:36] 📤 Fazendo upload...
+[2026-03-14 19:36:37] ✅ 6 imagens enviadas
+[2026-03-14 19:36:40] 🚀 Lançando capítulo...
+[2026-03-14 19:36:42] ✅ Capítulo 55 concluído!
+[2026-03-14 19:36:42] ⏱️ Aguardando 10s...
+[2026-03-14 19:36:52] 
+📚 Processando capítulo 56 (13/54)...
+[2026-03-14 19:36:52] 📁 6 imagens encontradas
+[2026-03-14 19:36:52] 📌 Selecionando obra...
+[2026-03-14 19:36:53] 🔢 Preenchendo capítulo 56...
+[2026-03-14 19:36:53] 📤 Fazendo upload...
+[2026-03-14 19:36:54] ✅ 6 imagens enviadas
+[2026-03-14 19:36:57] 🚀 Lançando capítulo...
+[2026-03-14 19:36:59] ✅ Capítulo 56 concluído!
+[2026-03-14 19:36:59] ⏱️ Aguardando 10s...
+[2026-03-14 19:37:09] 
+📚 Processando capítulo 57 (14/54)...
+[2026-03-14 19:37:09] 📁 6 imagens encontradas
+[2026-03-14 19:37:09] 📌 Selecionando obra...
+[2026-03-14 19:37:10] 🔢 Preenchendo capítulo 57...
+[2026-03-14 19:37:10] 📤 Fazendo upload...
+[2026-03-14 19:37:10] ✅ 6 imagens enviadas
+[2026-03-14 19:37:13] 🚀 Lançando capítulo...
+[2026-03-14 19:37:15] ✅ Capítulo 57 concluído!
+[2026-03-14 19:37:15] ⏱️ Aguardando 10s...
+[2026-03-14 19:37:25] 
+📚 Processando capítulo 58 (15/54)...
+[2026-03-14 19:37:25] 📁 6 imagens encontradas
+[2026-03-14 19:37:25] 📌 Selecionando obra...
+[2026-03-14 19:37:26] 🔢 Preenchendo capítulo 58...
+[2026-03-14 19:37:27] 📤 Fazendo upload...
+[2026-03-14 19:37:27] ✅ 6 imagens enviadas
+[2026-03-14 19:37:30] 🚀 Lançando capítulo...
+[2026-03-14 19:37:32] ✅ Capítulo 58 concluído!
+[2026-03-14 19:37:32] ⏱️ Aguardando 10s...
+[2026-03-14 19:37:42] 
+📚 Processando capítulo 59 (16/54)...
+[2026-03-14 19:37:42] 📁 7 imagens encontradas
+[2026-03-14 19:37:42] 📌 Selecionando obra...
+[2026-03-14 19:37:43] 🔢 Preenchendo capítulo 59...
+[2026-03-14 19:37:43] 📤 Fazendo upload...
+[2026-03-14 19:37:44] ✅ 7 imagens enviadas
+[2026-03-14 19:37:47] 🚀 Lançando capítulo...
+[2026-03-14 19:37:49] ✅ Capítulo 59 concluído!
+[2026-03-14 19:37:49] ⏱️ Aguardando 10s...
+[2026-03-14 19:37:59] 
+📚 Processando capítulo 60 (17/54)...
+[2026-03-14 19:37:59] 📁 5 imagens encontradas
+[2026-03-14 19:37:59] 📌 Selecionando obra...
+[2026-03-14 19:38:00] 🔢 Preenchendo capítulo 60...
+[2026-03-14 19:38:00] 📤 Fazendo upload...
+[2026-03-14 19:38:00] ⛔ Cancelando upload...
+[2026-03-14 19:38:00] ✅ 5 imagens enviadas
+[2026-03-14 19:38:02] ⛔ Cancelando upload...
+[2026-03-14 19:38:03] 🚀 Lançando capítulo...
+[2026-03-14 19:38:05] ✅ Capítulo 60 concluído!
+[2026-03-14 19:38:05] ⏱️ Aguardando 10s...
+[2026-03-14 19:38:08] ⛔ Cancelando upload...
+[2026-03-14 19:42:46] 🌐 Navegador aberto. Faça login manualmente.
+[2026-03-14 19:42:47] 🍪 Cookies carregados com sucesso!
+[2026-03-14 19:42:57] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:42:57] 👉 Clique no campo e pressione F2
+[2026-03-14 19:43:00] ✅ Campo mapeado: select.w-full
+[2026-03-14 19:43:00]    Tag: SELECT, ID: 
+[2026-03-14 19:43:10] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:43:10] 👉 Clique no campo e pressione F2
+[2026-03-14 19:43:13] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:43:13]    Tag: INPUT, ID: 
+[2026-03-14 19:43:16] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:43:16] 👉 Clique no campo e pressione F2
+[2026-03-14 19:43:27] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:43:27] 👉 Clique no campo e pressione F2
+[2026-03-14 19:43:36] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:43:36]    Tag: INPUT, ID: 
+[2026-03-14 19:43:36] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:43:36]    Tag: INPUT, ID: 
+[2026-03-14 19:43:45] 🎯 Mapeando campo: LANCAR
+[2026-03-14 19:43:45] 👉 Clique no campo e pressione F2
+[2026-03-14 19:43:49] ✅ Campo mapeado: button.w-full
+[2026-03-14 19:43:49]    Tag: BUTTON, ID: 
+[2026-03-14 19:43:49] 🎉 Todos os campos mapeados! Pronto para iniciar!
+[2026-03-14 19:44:02] 📁 Pasta base: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 19:44:13] 
+============================================================
+[2026-03-14 19:44:13] 🚀 INICIANDO UPLOAD AUTOMÁTICO
+[2026-03-14 19:44:13] 📚 Capítulos: 45 a 97
+[2026-03-14 19:44:13] ============================================================
+[2026-03-14 19:44:13] 
+📚 Processando capítulo 45 (1/53)...
+[2026-03-14 19:44:13] ❌ ERRO GERAL: 'MangaMapper' object has no attribute 'atualizar_progresso'
+[2026-03-14 19:44:30] 
+============================================================
+[2026-03-14 19:44:30] 🚀 INICIANDO UPLOAD AUTOMÁTICO
+[2026-03-14 19:44:30] 📚 Capítulos: 45 a 97
+[2026-03-14 19:44:30] ============================================================
+[2026-03-14 19:44:30] 
+📚 Processando capítulo 45 (1/53)...
+[2026-03-14 19:44:30] ❌ ERRO GERAL: 'MangaMapper' object has no attribute 'atualizar_progresso'
+[2026-03-14 19:44:35] 🍪 Sessão salva com sucesso!
+[2026-03-14 19:44:41] 
+============================================================
+[2026-03-14 19:44:41] 🚀 INICIANDO UPLOAD AUTOMÁTICO
+[2026-03-14 19:44:41] 📚 Capítulos: 45 a 97
+[2026-03-14 19:44:41] ============================================================
+[2026-03-14 19:44:41] 
+📚 Processando capítulo 45 (1/53)...
+[2026-03-14 19:44:41] ❌ ERRO GERAL: 'MangaMapper' object has no attribute 'atualizar_progresso'
+[2026-03-14 19:49:23] 🌐 Navegador aberto. Faça login manualmente.
+[2026-03-14 19:49:24] 🍪 Cookies carregados com sucesso!
+[2026-03-14 19:49:31] 🎯 Mapeando campo: OBRA
+[2026-03-14 19:49:31] 👉 Clique no campo e pressione F2
+[2026-03-14 19:49:35] ✅ Campo mapeado: select.w-full
+[2026-03-14 19:49:35]    Tag: SELECT, ID: 
+[2026-03-14 19:49:40] 🎯 Mapeando campo: CAPITULO
+[2026-03-14 19:49:40] 👉 Clique no campo e pressione F2
+[2026-03-14 19:49:43] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:49:43]    Tag: INPUT, ID: 
+[2026-03-14 19:49:45] 🎯 Mapeando campo: UPLOAD
+[2026-03-14 19:49:45] 👉 Clique no campo e pressione F2
+[2026-03-14 19:49:48] ✅ Campo mapeado: input.w-full
+[2026-03-14 19:49:48]    Tag: INPUT, ID: 
+[2026-03-14 19:49:53] 🎯 Mapeando campo: LANCAR
+[2026-03-14 19:49:53] 👉 Clique no campo e pressione F2
+[2026-03-14 19:49:57] ✅ Campo mapeado: button.w-full
+[2026-03-14 19:49:57]    Tag: BUTTON, ID: 
+[2026-03-14 19:49:57] 🎉 Todos os campos mapeados! Pronto para iniciar!
+[2026-03-14 19:50:07] 📁 Pasta base: C:/Obra/Assassino De Nivel Divino Eu Sou A Sombra
+[2026-03-14 19:50:10] 
+============================================================
+[2026-03-14 19:50:10] 🚀 INICIANDO UPLOAD AUTOMÁTICO
+[2026-03-14 19:50:10] 📚 Capítulos: 45 a 97
+[2026-03-14 19:50:10] ============================================================
+[2026-03-14 19:50:10] 
+📚 Processando capítulo 45 (1/53)...
+[2026-03-14 19:50:10] 📁 11 imagens encontradas
+[2026-03-14 19:50:10] 📌 Selecionando obra...
+[2026-03-14 19:50:11] 🔢 Preenchendo capítulo 45...
+[2026-03-14 19:50:13]    Valor final: '45'
+[2026-03-14 19:50:13] 📤 Fazendo upload...
+[2026-03-14 19:50:14] ✅ 11 imagens enviadas
+[2026-03-14 19:50:17] 🚀 Lançando capítulo...
+[2026-03-14 19:50:20] ✅ Capítulo 45 concluído!
+[2026-03-14 19:50:20] ⏱️ Aguardando 10s...
+[2026-03-14 19:50:30] 
+📚 Processando capítulo 46 (2/53)...
+[2026-03-14 19:50:30] 📁 10 imagens encontradas
+[2026-03-14 19:50:30] 📌 Selecionando obra...
+[2026-03-14 19:50:31] 🔢 Preenchendo capítulo 46...
+[2026-03-14 19:50:33]    Valor final: '46'
+[2026-03-14 19:50:33] 📤 Fazendo upload...
+[2026-03-14 19:50:34] ✅ 10 imagens enviadas
+[2026-03-14 19:50:37] 🚀 Lançando capítulo...
+[2026-03-14 19:50:40] ✅ Capítulo 46 concluído!
+[2026-03-14 19:50:40] ⏱️ Aguardando 10s...
+[2026-03-14 19:50:50] 
+📚 Processando capítulo 47 (3/53)...
+[2026-03-14 19:50:50] 📁 7 imagens encontradas
+[2026-03-14 19:50:50] 📌 Selecionando obra...
+[2026-03-14 19:50:51] 🔢 Preenchendo capítulo 47...
+[2026-03-14 19:50:53]    Valor final: '47'
+[2026-03-14 19:50:53] 📤 Fazendo upload...
+[2026-03-14 19:50:54] ✅ 7 imagens enviadas
+[2026-03-14 19:50:57] 🚀 Lançando capítulo...
+[2026-03-14 19:51:00] ✅ Capítulo 47 concluído!
+[2026-03-14 19:51:00] ⏱️ Aguardando 10s...
+[2026-03-14 19:51:10] 
+📚 Processando capítulo 48 (4/53)...
+[2026-03-14 19:51:10] 📁 8 imagens encontradas
+[2026-03-14 19:51:10] 📌 Selecionando obra...
+[2026-03-14 19:51:11] 🔢 Preenchendo capítulo 48...
+[2026-03-14 19:51:13]    Valor final: '48'
+[2026-03-14 19:51:13] 📤 Fazendo upload...
+[2026-03-14 19:51:14] ✅ 8 imagens enviadas
+[2026-03-14 19:51:17] 🚀 Lançando capítulo...
+[2026-03-14 19:51:20] ✅ Capítulo 48 concluído!
+[2026-03-14 19:51:20] ⏱️ Aguardando 10s...
+[2026-03-14 19:51:30] 
+📚 Processando capítulo 49 (5/53)...
+[2026-03-14 19:51:30] 📁 6 imagens encontradas
+[2026-03-14 19:51:30] 📌 Selecionando obra...
+[2026-03-14 19:51:31] 🔢 Preenchendo capítulo 49...
+[2026-03-14 19:51:33]    Valor final: '49'
+[2026-03-14 19:51:33] 📤 Fazendo upload...
+[2026-03-14 19:51:34] ✅ 6 imagens enviadas
+[2026-03-14 19:51:37] 🚀 Lançando capítulo...
+[2026-03-14 19:51:40] ✅ Capítulo 49 concluído!
+[2026-03-14 19:51:40] ⏱️ Aguardando 10s...
+[2026-03-14 19:51:50] 
+📚 Processando capítulo 50 (6/53)...
+[2026-03-14 19:51:50] 📁 6 imagens encontradas
+[2026-03-14 19:51:50] 📌 Selecionando obra...
+[2026-03-14 19:51:51] 🔢 Preenchendo capítulo 50...
+[2026-03-14 19:51:53]    Valor final: '50'
+[2026-03-14 19:51:53] 📤 Fazendo upload...
+[2026-03-14 19:51:54] ✅ 6 imagens enviadas
+[2026-03-14 19:51:57] 🚀 Lançando capítulo...
+[2026-03-14 19:52:00] ✅ Capítulo 50 concluído!
+[2026-03-14 19:52:00] ⏱️ Aguardando 10s...
+[2026-03-14 19:52:10] 
+📚 Processando capítulo 51 (7/53)...
+[2026-03-14 19:52:10] 📁 7 imagens encontradas
+[2026-03-14 19:52:10] 📌 Selecionando obra...
+[2026-03-14 19:52:11] 🔢 Preenchendo capítulo 51...
+[2026-03-14 19:52:12]    Valor final: '51'
+[2026-03-14 19:52:12] 📤 Fazendo upload...
+[2026-03-14 19:52:13] ✅ 7 imagens enviadas
+[2026-03-14 19:52:16] 🚀 Lançando capítulo...
+[2026-03-14 19:52:19] ✅ Capítulo 51 concluído!
+[2026-03-14 19:52:19] ⏱️ Aguardando 10s...
+[2026-03-14 19:52:28] ⛔ Cancelando upload...
+[2026-03-14 19:52:29] ⛔ Upload cancelado pelo usuário
+[2026-03-14 19:52:29] 
+============================================================
+[2026-03-14 19:52:29] ✅ UPLOAD FINALIZADO!

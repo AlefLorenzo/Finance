@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<WLANProfile xmlns="http://www.microsoft.com/networking/WLAN/profile/v1">
+	<name>Silvia</name>
+	<SSIDConfig>
+		<SSID>
+			<hex>53696C766961</hex>
+			<name>Silvia</name>
+		</SSID>
+	</SSIDConfig>
+	<connectionType>ESS</connectionType>
+	<connectionMode>auto</connectionMode>
+	<MSM>
+		<security>
+			<authEncryption>
+				<authentication>WPA3SAE</authentication>
+				<encryption>AES</encryption>
+				<useOneX>false</useOneX>
+				<transitionMode xmlns="http://www.microsoft.com/networking/WLAN/profile/v4">true</transitionMode>
+			</authEncryption>
+			<sharedKey>
+				<keyType>passPhrase</keyType>
+				<protected>true</protected>
+				<keyMaterial>01000000D08C9DDF0115D1118C7A00C04FC297EB01000000B7333C1BD4ECED4EB62686A8984CAD3100000000020000000000106600000001000020000000B345387D05795A982837F4615C6A18BCAFB89705500F6B558575183ECFA4CF11000000000E80000000020000200000002AF356EB4A7B6E41B94A49F67ED2DCE5464A2D414916474F8A3C3BEA8D01EF631000000045CD78E2A1B7924AD620AC4BBD095937400000008F418F6045A0C200DC7600B96B39D76110FAB9A9FBA6A3139AF330ED4C9789B662CA7CBBE7D98A1F19CB67D6962AB9D752262220A9D4C92255E14891C7A4D7D6</keyMaterial>
+			</sharedKey>
+		</security>
+	</MSM>
+	<MacRandomization xmlns="http://www.microsoft.com/networking/WLAN/profile/v3">
+		<enableRandomization>false</enableRandomization>
+	</MacRandomization>
+</WLANProfile>
